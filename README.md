@@ -1,6 +1,7 @@
 Infinite-Responder
 ==================
 
+<<<<<<< HEAD
 Little modification of Autoresponder script: http://infinite.ibasics.biz/
 
 Some modifictions:
@@ -9,3 +10,6 @@ Some modifictions:
 - A few modifications on GUI
 
 Manual and installation instructions: http://infinite.ibasics.biz/manual.html
+=======
+Infinite Responder
+>>>>>>> 737e8e771e81d090fe5ae5ef5235ca180a4509fb
